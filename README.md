@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/img1.png" alt="Logotipo" width="100">
+  <img src="img/img1.png" alt="Logotipo" width="150">
   <h1>PI_2 Data Science </h1>
 </div>
 
