@@ -1,6 +1,9 @@
-# PI_2 Data Science 
+<div align="center">
+  <img src="img/img1.png" alt="Logotipo" width="100">
+  <h1>PI_2 Data Science </h1>
+</div>
 
-![Texto Alternativo](img/img1.png)
+
 
 ## Análisis de Datos sobre el Acceso al Internet Fijo en Argentina (2014-2022)
 
@@ -8,7 +11,9 @@ Evolución en materia de las diferentes tecnologías, infraestructura, velocidad
 
 En el dinámico mundo de las telecomunicaciones en Argentina, nuestro análisis se sumerge en la evolución de las tecnologías de acceso a internet, evaluando la calidad del servicio y proponiendo soluciones personalizadas para mejorar la experiencia del cliente.
 
-![Texto Alternativo](img/img2.jpg)
+<p align="center">
+  <img src="img/img2.jpg" alt="Texto Alternativo">
+</p>
 
 ## Datos y Fuentes
 
